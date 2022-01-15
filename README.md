@@ -13,19 +13,19 @@ This school district wanted summaries of student and school performance in their
 
 The seven school district metrics were:
 * School Type
- This metric was not affected because the school district requested that I omit only the alleged cases of academic dishonesty among 9th grade students instead of removing this high school from my analysis entirely.
+ -This metric was not affected because the school district requested that I omit only the alleged cases of academic dishonesty among 9th grade students instead of removing this high school from my analysis entirely.
 * Total Students
- This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis. Although these students were removed from that high school's target analysis, they were not removed from the District's Summary. This was an understandable choice, because removing those students from all levels of analysis would have misrepresented the results of other metrics, specifically the Per Student Budget. 
+ -This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis. Although these students were removed from that high school's target analysis, they were not removed from the District's Summary. This was an understandable choice, because removing those students from all levels of analysis would have misrepresented the results of other metrics, specifically the Per Student Budget. 
 * Total School Budget
- The total school budget remained unchanged. 
+ -The total school budget remained unchanged. 
 * Per Student Budget
- The per student budget remained unchanged.
+ -The per student budget remained unchanged.
 * Percentage (%) Passing Math
- This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
+ -This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
 * Percentage (%) Passing Reading
- This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
+ -This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
 * Percentage (%) Passing Overall
- This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
+ -This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
 
 
 The school district specifically wanted me to analyze the student performance at one school, since this was the school where they uncovered academic dishonesty. In evaluating this school, I found that the students passing math and students passed reading in the 90 percentile range. What remains to be seen is whether these students are simply high performers, or if there could be more instances of academic dishonesty. 
