@@ -11,23 +11,32 @@ This school district wanted summaries of student and school performance in their
 
 ## Results ##
 
-The school district specifically wanted me to analyze the student performance at one school, since this was the school where they uncovered academic dishonesty. 
-
 The seven school district metrics were:
 * School Type
+ This metric was not affected because the school district requested that I omit only the alleged cases of academic dishonesty among 9th grade students instead of removing this high school from my analysis entirely.
 * Total Students
+ This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis. Although these students were removed from that high school's target analysis, they were not removed from the District's Summary. This was an understandable choice, because removing those students from all levels of analysis would have misrepresented the results of other metrics, specifically the Per Student Budget. 
 * Total School Budget
+ The total school budget remained unchanged. 
 * Per Student Budget
 * Percentage (%) Passing Math
 * Percentage (%) Passing Reading
 * Percentage (%) Passing Overall
 
 
+The school district specifically wanted me to analyze the student performance at one school, since this was the school where they uncovered academic dishonesty. In evaluating this school, I found that the students passing math and students passed reading in the 90 percentile range. What remains to be seen is whether these students are simply high performers, or if there could be more instances of academic dishonesty. 
+<img width="1081" alt="Screen Shot 2022-01-15 at 5 43 18 PM" src="https://user-images.githubusercontent.com/95657458/149639950-fcf497ea-6fc9-4f25-acc2-1174341a9d05.png">
+
+
 
 ## Summary
 When I re-ran the code, there were some noteworthy changes between my original and new analysis.
+
 The new district summary
-<img width="1089" alt="Screen Shot 2022-01-15 at 5 36 08 PM" src="https://user-images.githubusercontent.com/95657458/149639761-7bd30ca1-0d86-4a03-8e22-a2f28ed9e090.png">
+<img width="1083" alt="Screen Shot 2022-01-15 at 5 55 28 PM" src="https://user-images.githubusercontent.com/95657458/149640191-ca9750b0-7257-4a3c-9c3c-eba5de121e03.png">
+
 
 The old district summary
 <img width="1074" alt="Screen Shot 2022-01-15 at 5 36 43 PM" src="https://user-images.githubusercontent.com/95657458/149639785-a5ccf085-d2e2-4a11-bace-7162a4be8124.png">
+
+First, . Both the average score for students passing math and the percentage of students passing math decreased. And finally, the overall passing percentage decreased. Aside from the budget increasing, these changes were expected because the academic dishonesty bloated these metrics. 
