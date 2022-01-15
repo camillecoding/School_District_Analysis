@@ -19,9 +19,13 @@ The seven school district metrics were:
 * Total School Budget
  The total school budget remained unchanged. 
 * Per Student Budget
+ The per student budget remained unchanged.
 * Percentage (%) Passing Math
+ This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
 * Percentage (%) Passing Reading
+ This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
 * Percentage (%) Passing Overall
+ This metric was affected because the number of students decreased once the 9th grade students from one high school were removed from analysis.
 
 
 The school district specifically wanted me to analyze the student performance at one school, since this was the school where they uncovered academic dishonesty. In evaluating this school, I found that the students passing math and students passed reading in the 90 percentile range. What remains to be seen is whether these students are simply high performers, or if there could be more instances of academic dishonesty. 
@@ -39,4 +43,4 @@ The new district summary
 The old district summary
 <img width="1074" alt="Screen Shot 2022-01-15 at 5 36 43 PM" src="https://user-images.githubusercontent.com/95657458/149639785-a5ccf085-d2e2-4a11-bace-7162a4be8124.png">
 
-First, . Both the average score for students passing math and the percentage of students passing math decreased. And finally, the overall passing percentage decreased. Aside from the budget increasing, these changes were expected because the academic dishonesty bloated these metrics. 
+First, the number of students whose performance was considered in the performance analysis decreased, even though the summary counts them as part of the school. Both the average score for students passing math and the percentage of students passing math decreased slightly. And finally, the overall passing percentage decreased. Aside from the budget increasing, these changes were expected because the academic dishonesty bloated these metrics. 
